@@ -23,7 +23,7 @@
 2. Provided help to someone who had issues with CSS.
 3. Made new friends with other coders.
 
-**Thoughts** Productive day even though it took some time to understand some of the Javascript challenges I completed. Sometimes, it just works and you don't know why. 
+**Thoughts:** Productive day even though it took some time to understand some of the Javascript challenges I completed. Sometimes, it just works and you don't know why. 
 
 
 <!--### Day 1: June 27, Monday
