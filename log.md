@@ -25,6 +25,25 @@
 
 **Thoughts:** Productive day even though it took some time to understand some of the Javascript challenges I completed. Sometimes, it just works and you don't know why. 
 
+##RE-COMMITTING##
+
+### Day 1: July 29, 2017
+
+**Today's Progress**: 
+1. Resumed my exercises on FreeCodeCamp. Started Object Oriented Javascript.
+2. Also did some ES6 challenges on the beta site of FCC.
+3. Started learning Java.
+
+**Thoughts:** Pretty great day. Took my time to master the constructors. Learned a few syntaxes in Java.
+
+<!--### Day 3: July 19, 2017
+
+**Today's Progress**: 
+1. Resumed my exercises on FreeCodeCamp. Finally finished Basic Javascript. Looking to start Object Oriented Javascript tomorrow.
+2. Provided help to someone who had issues with CSS.
+3. Made new friends with other coders.
+
+**Thoughts:** Productive day even though it took some time to understand some of the Javascript challenges I completed. Sometimes, it just works and you don't know why.--> 
 
 <!--### Day 1: June 27, Monday
 
